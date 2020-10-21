@@ -240,6 +240,22 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
 }
 
+#hero h2 {
+  margin: 0 0 10px 0;
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 46px;
+  color: rgb(150, 255, 146);
+}
+
+#hero h3 {
+  margin: 0 0 10px 0;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 46px;
+  color: #fff;
+}
+
 #hero p {
   color: #fff;
   margin-bottom: 50px;
